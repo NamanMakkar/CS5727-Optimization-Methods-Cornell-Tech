@@ -1,5 +1,5 @@
 # CS5727-Optimization-Methods-Cornell-Tech
-This repository contains the code and report for the coursework of CS5727 Optimization Methods offered in Fall 2022 at Cornell Tech. This is the work of Naman Makkar and Aya Chehabi
+This repository contains the code and report for the coursework of CS5727 Optimization Methods offered in Fall 2022 at Cornell Tech. This is the work of NAMAN MAKKAR and AYA CHEHABI
 
 This coursework works on a Dynamic Driver Assignment Problem with the help of Gurobi in python to optimize the cargo operations of Express Air. 
 According to the problem description, Express Air is a cargo delivery business that operates between three airports, A, B, and C.
